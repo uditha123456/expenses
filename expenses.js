@@ -645,7 +645,7 @@ function loadExpenses() {
                         >
 
                             <img
-                                src="delete.png"
+                                src="Delete.png"
                             >
 
                         </button>
