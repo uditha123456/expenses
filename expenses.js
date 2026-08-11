@@ -627,7 +627,7 @@ function loadExpenses() {
                         >
 
                             <img
-                                src="edite.png"
+                                src="Edite.png"
                             >
 
                         </button>
